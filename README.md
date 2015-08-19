@@ -1,3 +1,3 @@
-# php7 configure helper
+# configure script
 
-don't forget change '--prefix' ,'--with-fpm-user' ,'--with-fpm-group' in the script!
+## don't forget change '--prefix' ,'--with-fpm-user' ,'--with-fpm-group' in the script!
